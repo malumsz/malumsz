@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ff/45/d0/ff45d0af6f718ceee9d9f70edc9b3a0f.gif" alt="Card header"/>
-</div>
 
 <p>
 <div align="center">
