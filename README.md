@@ -1,20 +1,29 @@
 #
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-luísa-moreira-22baa1234/)](https://www.linkedin.com/in/maria-luísa-moreira-22baa1234/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/maria-luísa-moreira-22baa1234/)](https://www.linkedin.com/in/maria-luísa-moreira-22baa1234/)
+<a href="https://github.com/malumsz/malumsz/blob/main/resumee.pdf"> 
+  <img src="https://img.shields.io/badge/Resume-20232A?style=for-the-badge&logo=meu_curriculo&logoColor=white" /> 
+</a>
+
 
 Computer Science student at **State University of Northern Paraná (UENP)**.
 
 #
 
-<h3>Languages: <h3>
+<h3>Skills: <h3>
   <p>
   <div>
-    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=%23e3e4e6">
-    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=%23e3e4e6">
-    <img src="https://img.shields.io/badge/-Python-3777ab?style=for-the-badge&logo=python&logoColor=3777ab&labelColor=%23e3e4e6">
-    <img src="https://img.shields.io/badge/-C-%231e6dd4?style=for-the-badge&logo=C&logoColor=%231e6dd4&labelColor=%23e3e4e6">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=3777ab&labelColor=%23e3e4e6""/>
-    <img src="https://img.shields.io/badge/-PHP-%23777bb4?style=for-the-badge&logo=PHP&logoColor=%23777bb4&labelColor=%23e3e4e6">
-    <img src="https://img.shields.io/badge/-Laravel-%23ff2d20?style=for-the-badge&logo=laravel&logoColor=%23ff2d20&labelColor=%23e3e4e6">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   </div>
   </p>
 
