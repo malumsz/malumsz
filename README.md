@@ -3,9 +3,7 @@
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/maria-luísa-moreira-22baa1234/)](https://www.linkedin.com/in/maria-luísa-moreira-22baa1234/)
-<a href="https://github.com/malumsz/malumsz/blob/main/resumee.pdf"> 
-  <img src="https://img.shields.io/badge/Resume-20232A?style=for-the-badge&logo=meu_curriculo&logoColor=white" /> 
-</a>
+
 
 Computer Science student at ***State University of Northern Paraná (UENP)***
 
