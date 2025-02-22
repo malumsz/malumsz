@@ -4,7 +4,7 @@
 
 ### Hi!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/maria-luísa-moreira-22baa1234/)](https://www.linkedin.com/in/maria-luísa-moreira-22baa1234/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/malumsz/)](https://www.linkedin.com/in/malumsz/)
 
 I'm a Computer Science student at ***State University of Northern Paraná (UENP)***.
 
