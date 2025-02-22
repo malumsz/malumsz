@@ -6,7 +6,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/malumsz/)](https://www.linkedin.com/in/malumsz/)
 
-I'm a Computer Science student at ***State University of Northern Paraná (UENP)***.
+I have a Bachelor's degree 🎓 in Computer Science from the ***State University of Northern Paraná (UENP)*** and experience in **web development**, **front-end development**, and **full-stack development**.
+
 
 
 ---
