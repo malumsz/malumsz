@@ -2,7 +2,11 @@
 
 <img align="left" src="https://i.imgur.com/zbgLZ2o.png" width="150" >
 
-### Hi!
+### Hi, I'm malu! 👋
+
+<div alt="English | Portuguese" title="English | Portuguese">
+<img src="https://img.shields.io/badge/EN-PT-blue?style=flat-square">
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/malumsz/)](https://www.linkedin.com/in/malumsz/)
 
@@ -10,10 +14,24 @@ I have a Bachelor's degree 🎓 in Computer Science from the ***State University
 
 
 
+<p align="center">
+  <h3 align="center"><strong>🚀 Skills:</strong></h3>
+</p>
+
+ 
 ---
 
 
-  <p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,git,flutter,html,css,java,python,bootstrap,postgres,php,laravel,figma,ps,react,nodejs,js,ts,nextjs,vercel&theme=light&perline=11" />
+  </a>
+</p>
+
+
+  <!--<p>
   <div align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -35,7 +53,7 @@ I have a Bachelor's degree 🎓 in Computer Science from the ***State University
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </div>
-  </p>
+  </p>-->
 
   </div>
 
