@@ -10,7 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/malumsz/)](https://www.linkedin.com/in/malumsz/)
 
-I have a Bachelor's degree 🎓 in Computer Science from the ***State University of Northern Paraná (UENP)*** and experience in **web development**, **front-end development**, and **full-stack development**.
+I have a Bachelor's degree 🎓 in Computer Science from the ***State University of Northern Paraná (UENP)*** and experience in **web development**, **front-end development**, **UI/UX design** and **full-stack development**.
 
 
 
@@ -26,7 +26,7 @@ I have a Bachelor's degree 🎓 in Computer Science from the ***State University
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,git,flutter,html,css,java,python,bootstrap,postgres,php,laravel,figma,ps,react,nodejs,js,ts,nextjs,vercel&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,git,flutter,html,css,java,python,bootstrap,postgres,php,laravel,figma,ps,react,nodejs,js,ts,nextjs,vercel,vue,tailwind&theme=light&perline=8" />
   </a>
 </p>
 
